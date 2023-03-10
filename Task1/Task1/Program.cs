@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-int azn = 1000;
+int azn = 500;
 Console.WriteLine("Mebleg (AZN) : " + azn);
 float usd = 0.5882f;
 float eur = 0.5544f;
